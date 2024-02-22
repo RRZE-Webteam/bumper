@@ -1,0 +1,22 @@
+{
+    "name": "@rrze/bumper",
+    "version": "0.0.1",
+    "description": "A utility to increment the version in a WordPress plugin/theme file.",
+    "author": "RRZE Webteam",
+    "license": "GPL-3.0-or-later",
+    "keywords": [
+        "wordpress"
+    ],
+    "homepage": "https://github.com/RRZE-Webteam/bumper",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/RRZE-Webteam/bumper.git"
+    },
+    "bugs": {
+        "url": "https://github.com/RRZE-Webteam/bumper/issues"
+    },
+    "main": "index.js",
+    "bin": {
+        "bumper": "./index.js"
+    }
+}
