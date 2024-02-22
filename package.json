@@ -18,5 +18,8 @@
     "main": "index.js",
     "bin": {
         "bumper": "./index.js"
+    },
+    "publishConfig": {
+        "access": "public"
     }
 }
